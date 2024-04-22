@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Movie List</string>
+    <string name="nama_movie">Nama Film</string>
+    <string name="genre_movie">Genre Film</string>
+    <string name="rating_movie">Rating Film</string>
+    <string name="search">Search</string>
+    <string name="desc_movie">Deskripsi</string>
+    <string name="director_movie">Director</string>
+    <string name="tahun_release">Tahun Rilis</string>
+    <string name="favorite">Favorites</string>
+    <string name="no_movie_found">No movie(s) found</string>
+    <string name="no_fav_movies">No Favorite Movie(s) yet...</string>
+</resources>
